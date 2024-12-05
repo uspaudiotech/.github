@@ -1,7 +1,6 @@
 # USPAudioTech
 
 **USPAudioTech** is an academic extension group dedicated to developing software and hardware solutions for digital audio and music applications.
-
 Our mission is to empower anyone interested in the world of digital audio by providing educational content through a multidisciplinary approach.
 
 The group was founded by computer science students from the Institute of Mathematics and Statistics at the University of São Paulo (IME-USP).
