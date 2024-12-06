@@ -8,7 +8,7 @@ O grupo foi fundado por estudantes de Ciência da Computação do Instituto de M
 
 ## **Fale Conosco**  
 
-Tem alguma dúvida? Está interessado em fazer parte do grupo? Quer entrar em contato com uma pessoa real (e não com um bot)? Aqui estão as informações de contato dos membros. Mande um salve a qualquer momento!
+Tem alguma dúvida? Quer mandar sugestões? Está interessado em contribuir ao grupo? Entre em contato com uma pessoa real (e não com um bot)! Aqui estão as informações de contato dos membros. Mande um salve a qualquer momento!
 
 - **haruo**  
   Email: [takeuchigabriel@usp.br](mailto:takeuchigabriel@usp.br)  
