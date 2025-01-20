@@ -1,10 +1,10 @@
 # USPAudioTech
 
-**USPAudioTech** é um grupo de extensão acadêmico focado no desenvolvimento de soluções de software e hardware para áudio e música digital. Nossa missão é empoderar pessoas interessadas nessa área de conhecimento, oferecendo recursos educacionais e suporte para criar ferramentas de qualidade, sempre com uma abordagem multidisciplinar e colaborativa.
+**USPAudioTech** é um grupo de extensão acadêmico focado no desenvolvimento de software e hardware para áudio e música digital. Nossa missão é empoderar pessoas interessadas nessa área de conhecimento, oferecendo recursos educacionais e suporte para criar ferramentas de qualidade, sempre com uma abordagem multidisciplinar e colaborativa.
 
 O grupo foi fundado por estudantes de Ciência da Computação do Instituto de Matemática e Estatística da Universidade de São Paulo (IME-USP).
 
-_USPAudioTech is an academic extension group focused on developing software and hardware solutions for audio and digital music. Our mission is to empower people interested in this field by providing educational resources and support to create high-quality tools, always with a multidisciplinary and collaborative approach._
+_USPAudioTech is an academic extension group focused on developing software and hardware for audio and digital music. Our mission is to empower people interested in this field by providing educational resources and support to create high-quality tools, always with a multidisciplinary and collaborative approach._
 
 _The group was founded by Computer Science students from the Institute of Mathematics and Statistics at the University of São Paulo (IME-USP)._
 
